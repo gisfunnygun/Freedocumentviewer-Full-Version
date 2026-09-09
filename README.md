@@ -234,3 +234,6 @@ This repository serves as the official landing page for FreeDocumentViewer. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of FreeDocumentViewer today!**
+
+---
+**Last updated:** 2026-09-09 17:27:08 UTC
